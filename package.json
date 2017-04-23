@@ -1,0 +1,19 @@
+{
+  "name": "myfirstproject",
+  "version": "1.0.0",
+  "description": "created this project for git practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnicalDiary/FirstProject.git"
+  },
+  "author": "Shahbaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnicalDiary/FirstProject/issues"
+  },
+  "homepage": "https://github.com/TechnicalDiary/FirstProject#readme"
+}
